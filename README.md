@@ -69,7 +69,7 @@ First, start the mavors:
 Publish the lidar messages (e.g., Livox Mid-360):
 
 ```
-  source <your_file_to_livox_ros_driver>/devel/setup.bash
+  source $LIVOX_ROS_DRIVER_DIR$/devel/setup.bash
   roslaunch livox_ros_driver2 msg_MID360.launch
 ```
 run Fast-LIO and `camera_pose_node`:
@@ -122,7 +122,7 @@ Alternatively, you can run `default.rviz` and specify the `/move_base_simple/goa
 ### 3.2 Start With the Script.
 
 ```
-    cd ~/$LIO_Drone_250_DIR$/shfiles
+    cd ~/$LIO_DRONE_250_DIR$/shfiles
     sudo chmod 777  *.sh
     ./Odom.sh
     ./Controller.sh
