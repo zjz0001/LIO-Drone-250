@@ -1,0 +1,6 @@
+<launch>
+<!--<group ns="uav1">-->
+    <include file="$(find mavros)/launch/px4.launch">
+    </include>
+<!--</group>-->
+</launch>

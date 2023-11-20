@@ -1,0 +1,6 @@
+<launch>
+<!--<group ns="uav1">-->
+    <node pkg="camera_pose_node" type="vision_pose_node" name="vision_pose_node" output="screen">
+    </node>
+<!--</group>-->
+</launch>
