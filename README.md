@@ -10,6 +10,7 @@ For **Ubuntu 18.04 or higher**, the **default** PCL and Eigen is enough for FAST
 ROS    >= Melodic. [ROS Installation](http://wiki.ros.org/ROS/Installation)
 
 ### 1.2. **Mavros**
+Follow [mavros_installation](https://docs.px4.io/main/en/ros/mavros_installation.html) to install mavros:
 
   ``` 
     sudo apt install ros-melodic-mavros ros-melodic-mavros-extras
