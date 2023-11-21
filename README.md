@@ -4,6 +4,8 @@ This repository enables fully autonomous drone flight based on Mid360. It incorp
 <div align="center">
 <img src="pic/lio_drone_outdoor.gif" width=99% />
 </div>
+
+
 ## 1. Prerequisites
 ### 1.1 **Ubuntu** and **ROS**
 **Ubuntu >= 16.04**
