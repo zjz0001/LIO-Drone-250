@@ -1,6 +1,10 @@
 # LIO-Drone-250
 This repository enables fully autonomous drone flight based on Mid360. It incorporates an odometry reference from [Fast-LIO2](https://github.com/hku-mars/FAST_LIO) and a planning module reference from [Ego-Planner](https://github.com/ZJU-FAST-Lab/ego-planner-swarm). Also, this contribution is inspired by the [Fast-Drone-250](https://github.com/ZJU-FAST-Lab/Fast-Drone-250) from the FAST-LAB laboratory.
 
+<div align="left">
+<img src="doc/real_experiment2.gif" width=49.6% />
+<img src="doc/ulhkwh_fastlio.gif" width = 49.6% >
+</div>
 ## 1. Prerequisites
 ### 1.1 **Ubuntu** and **ROS**
 **Ubuntu >= 16.04**
